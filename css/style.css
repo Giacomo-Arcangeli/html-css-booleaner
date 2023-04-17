@@ -44,6 +44,22 @@ ul{
     padding-inline-start: 13px;
 }
 
+.cell{
+    width: 60%;
+    height: 30px;
+}
+
+
+th{
+    text-align: left;
+    background-color: deepskyblue;
+    color: white;
+}
+
+.cell-color{
+    background-color: rgb(176, 219, 247);
+}
+
 #bg-image-1{
     background-image: url(../img/monitor.jpg);
     width: 250px;
