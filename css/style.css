@@ -3,6 +3,17 @@ body{
     margin: auto
 }
 
+#title{
+    background-color: dodgerblue;
+    height: 110px;
+    background-image: url(../img/pattern.png);
+    background-size: 30%;
+}
+
+#logo{
+    height: 70px;
+}
+
 h1{
     font-size: 41px;
     margin-block-end: 0%;
