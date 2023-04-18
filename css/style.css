@@ -44,6 +44,10 @@ ul{
     padding-inline-start: 13px;
 }
 
+table{
+    border-collapse: collapse;
+}
+
 .cell{
     width: 60%;
     height: 30px;
@@ -54,6 +58,10 @@ th{
     text-align: left;
     background-color: deepskyblue;
     color: white;
+}
+
+#fix{
+    border: none;
 }
 
 .cell-color{
